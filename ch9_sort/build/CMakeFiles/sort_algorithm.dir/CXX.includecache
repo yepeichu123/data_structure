@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/SortAlgorithm.h
+
+/home/ypc/xiaoc/code/data_structure/ch9_sort/src/main.cpp
+iostream
+-
+SortAlgorithm.h
+/home/ypc/xiaoc/code/data_structure/ch9_sort/src/SortAlgorithm.h
+
